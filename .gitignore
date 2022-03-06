@@ -135,6 +135,8 @@ dmypy.json
 # local data
 data/
 target_organization.csv
-test.ipynb
+# test.ipynb
 workdir_*
 *.csv
+drawdata/*
+croquis_img
